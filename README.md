@@ -7,4 +7,4 @@ A userscript to scrape Menu Data from FoodMandu
 
 ### OR
 
-- Copy `index.js` and Paste it to your Script runner
+- Copy the content of `index.js` and Paste it to your Script runner
