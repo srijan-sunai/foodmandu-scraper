@@ -75,7 +75,7 @@
    * Download the menu file to JSON
    *
    * @param {Array} data Menu Item Data to download
-   * @param {*} name Name of the File to be saved as
+   * @param {String} name Name of the File to be saved as
    */
   function saveCategoryItems(data, name) {
     const jsonData = JSON.stringify(data, null, 2);
