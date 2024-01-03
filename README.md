@@ -8,3 +8,11 @@ A userscript to scrape Menu Data from FoodMandu
 ### OR
 
 - Copy the content of `index.js` and Paste it to your Script runner
+
+### Upcomming:
+- Will be added to Support Multiple Site like:
+  1. Bhoj
+  2. Mero Kinmel
+  3. Khanpin and more
+ 
+- If you want more sites to be added, Please open a feature request
